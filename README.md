@@ -1,5 +1,5 @@
 # React + Vite
-Aplicación de React para practicar más, donde consumimon un API, creamos varios custom Hooks y usamos algunos hooks de React
+Aplicación de React para practicar más, donde consumimos un API, creamos varios custom Hooks y usamos algunos hooks de React
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
